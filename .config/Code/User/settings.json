@@ -1,0 +1,20 @@
+{
+  "window.zoomLevel": 1.7,
+
+  "editor.fontFamily": "CaskaydiaCove Nerd Font Mono",
+  "editor.fontSize": 17,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "chat.commandCenter.enabled": false,
+
+  "workbench.navigationControl.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "prettier.trailingComma": "none"
+}

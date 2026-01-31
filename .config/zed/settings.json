@@ -1,16 +1,17 @@
 {
+  "show_edit_predictions": false,
   "base_keymap": "VSCode",
   "telemetry": {
     "diagnostics": false,
-    "metrics": false,
+    "metrics": false
   },
   "icon_theme": {
     "mode": "dark",
-    "light": "Catppuccin Latte",
-    "dark": "Catppuccin Mocha",
+    "light": "Material Icon Theme",
+    "dark": "Material Icon Theme"
   },
   "ui_font_size": 16,
-  "buffer_font_size": 15,
+  "buffer_font_size": 18,
   "theme": {
     "mode": "dark",
     "light": "Catppuccin Latte",

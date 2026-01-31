@@ -1,7 +1,10 @@
 theme = Catppuccin Mocha
 
-font-family = CascadiaMono Nerd Font
-font-size = 14
+font-family = CaskaydiaCove Nerd Font Mono
+font-size = 16
+
+window-height = 24
+window-width = 90
 
 window-padding-y = 13
 window-padding-x = 13
